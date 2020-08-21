@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Reflection;
-using System.Runtime.InteropServices;
 using System.Windows.Controls;
 using System.Windows.Input;
 using CaptchaSolverServer.Helpers;
